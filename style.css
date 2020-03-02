@@ -1,0 +1,58 @@
+body {
+    background-color: maroon;
+    font-family: 'Open Sans';
+    letter-spacing: 0.3px;
+}
+
+div.main {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 20px 60px;
+    border-radius: 30px;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.two {
+    background-color: rgb(235, 235, 235);
+    border: 1px solid grey;
+    padding: 15px 50px;
+    margin-top: 30px;
+    margin-bottom: 10px ;
+}
+
+h1, h2, h3 {
+    font-family: 'Maven Pro';
+}
+
+h1 {
+    color: #808000;
+}
+
+h2, h3 {
+    color: maroon;
+}
+
+button {
+    background-color: #808000;
+    font-size: 18px;
+    color: white;
+    padding: 7px 15px;
+    font-variant: small-caps;
+}
+
+a :hover{
+    border: 1px solid black;
+}
+
+.Answer {
+    color: maroon;
+}
+
+.Mama {
+    font-variant: small-caps;
+    border: 1.5px solid black;
+}
